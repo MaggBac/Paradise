@@ -1,3 +1,3 @@
 # Paradise
 
-## Responsive website using SASS, JavaScript e.g. visual additions, burger-btn
+## Responsive website using SASS, JavaScript e.g. visual additions, burger-btn, flexbox
